@@ -54,6 +54,8 @@ pip3 install --upgrade sklearn \
                        graphviz \
                        gym gym[box2d] gym[atari] \
                        matplotlib \
+                       atary_py \
+                       opencv-python \
                        seaborn && \
 pip3 install --upgrade https://github.com/Theano/Theano/archive/master.zip \
                        https://github.com/Lasagne/Lasagne/archive/master.zip \
